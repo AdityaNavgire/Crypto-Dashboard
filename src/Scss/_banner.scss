@@ -1,0 +1,23 @@
+.banner {
+  background-image: url("../../public/Img/banner2.jpg");
+}
+.banner-content {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+  justify-content: space-around;
+}
+.tag-title {
+  font-family: "Montserrat";
+  font-weight: bold;
+  margin-bottom: 15;
+}
+
+.tagline {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 40%;
+}
